@@ -18,7 +18,8 @@
   .modal {
     border-radius: 4px;
     background-color: white;
-    padding: 16px;
+    padding: 4px;
+    padding-bottom: 24px;
     text-align: center;
     width: 460px;
     z-index: 1000;
@@ -29,7 +30,6 @@
   }
    
   .modal__title {
-    margin-bottom: 8px;
     font-size: 18px;
   }
    
